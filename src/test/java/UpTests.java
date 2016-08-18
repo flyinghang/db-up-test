@@ -1,8 +1,3 @@
-/**
- * Created by sheldon on 8/18/2016.
- */
-
-
 import me.ezapps4.UpTest;
 import org.junit.Rule;
 import org.junit.Test;
